@@ -11,7 +11,7 @@ import SwiftUI
 struct PlantyApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            PassWordView()
         }
     }
 }
